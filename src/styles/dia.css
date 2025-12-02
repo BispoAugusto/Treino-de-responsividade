@@ -1,0 +1,12 @@
+body {
+    color: var(--cor-escura);
+}
+
+.principal__titulo-destaque {
+    color: var(--cor-destaque);
+}
+
+.principal__botao {
+    background-color: var(--cor-destaque);
+    color: var(--cor-clara);
+}

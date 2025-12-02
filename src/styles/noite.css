@@ -1,0 +1,8 @@
+body {
+    background-color: var(--cor-escura-pesada);
+    color: var(--cor-clara);
+}
+
+.cabecalho__logo {
+    color: var(--cor-clara);
+}
